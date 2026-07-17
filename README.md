@@ -64,13 +64,13 @@ CDBMM produced low overall bias and MSE across the eight scenarios. Estimation v
 The Relative Error Ratio remained below 0.05 across all scenarios. CDBMM also recovered the underlying subgroup structures well and correctly identified the homogeneous control scenarios without creating artificial subgroups.
 
 <p align="center">
-  <img src="figures/MSE%20of%20ATE.png" width="650">
+  <img src="figures/MSE%20of%20ATE.png" width="500">
 </p>
 
 **Figure 3.** Distribution of ATE mean squared errors across the eight simulation scenarios.
 
 <p align="center">
-  <img src="figures/ARI.png" width="400">
+  <img src="figures/ARI.png" width="350">
 </p>
 
 **Figure 4.** Subgroup-recovery performance measured using the Adjusted Rand Index.
