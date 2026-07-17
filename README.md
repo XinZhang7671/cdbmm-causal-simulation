@@ -5,7 +5,7 @@ This repository contains the simulation study developed for my master's thesis t
 The study examines whether CDBMM can accurately estimate heterogeneous treatment effects and recover latent subgroup structures under controlled simulation settings.
 
 <p align="center">
-  <img src="figures/variable%20relationship.png" width="600">
+  <img src="figures/variable%20relationship.png" width="500">
 </p>
 
 **Figure 1.** Data-generating structure connecting covariates, exposure, treatment assignment, latent groups, and potential outcomes.
