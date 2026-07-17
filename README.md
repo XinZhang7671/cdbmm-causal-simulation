@@ -70,7 +70,7 @@ The Relative Error Ratio remained below 0.05 across all scenarios. CDBMM also re
 **Figure 3.** Distribution of ATE mean squared errors across the eight simulation scenarios.
 
 <p align="center">
-  <img src="figures/ARI.png" width="600">
+  <img src="figures/ARI.png" width="400">
 </p>
 
 **Figure 4.** Subgroup-recovery performance measured using the Adjusted Rand Index.
